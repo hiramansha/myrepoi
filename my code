@@ -1,1 +1,3 @@
 cout<<"my name is:"<<"hira"
+cout<<"my roll no is:"<<028;
+cout<<"my FSC subjects are:"<<"Maths","chemistry","physics",English","Urdu",pak-study";
